@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [akmaljon-azimov.vercel.app](akmaljon-azimov.vercel.app)
+- 👨‍💻 All of my projects are available at [https://akmaljon-azimov.vercel.app/)
 
 - 💬 Ask me about **React , Javascript**
 
