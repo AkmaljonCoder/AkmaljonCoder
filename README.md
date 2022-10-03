@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at https://akmaljon-azimov.vercel.app/
 
-- 💬 Ask me about **React , Javascript**
+- 💬 Ask me about **HTML, CSS , SASS , React , Javascript**
 
 - 📫 How to reach me **azimjonovakmaljoncoder@gmail.com**
 
