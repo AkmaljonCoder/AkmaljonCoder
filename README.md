@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Tammy food](https://github.com/AkmaljonCoder/tammy-food.git)
 
-- 🌱 I’m currently practicing **React Js**
+- 🌱 I’m currently practicing **TypeScript**
 
 - 👨‍💻 All of my projects are available at https://akmaljon-azimov.vercel.app/
 
