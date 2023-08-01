@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/azimov_akmaljon" target="blank"><img src="https://img.shields.io/twitter/follow/azimov_akmaljon?logo=twitter&style=for-the-badge" alt="azimov_akmaljon" /></a> </p>
 
-- 🔭 I’m currently working on [Tammy food](https://github.com/AkmaljonCoder/tammy-food.git)
-
 - 🌱 I’m currently practicing **TypeScript**
 
 - 👨‍💻 All of my projects are available at https://akmaljon-azimov.vercel.app/
