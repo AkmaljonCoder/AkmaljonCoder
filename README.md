@@ -12,9 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS , SASS , React , Javascript**
 
-- 📫 How to reach me **azimjonovakmaljoncoder@gmail.com**
-
-- ⚡ Fun fact **I am friendly**
+- 📫 My email adress: **azimjonovakmaljoncoder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
